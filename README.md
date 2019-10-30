@@ -3,7 +3,7 @@ mxnet 训练手关键点，21点，直接回归
 
 # 数据准备
 
-从[此链接](https://pan.baidu.com/s/1CwxSyZxMgL3FK8zJBqWeQw) 数据到data文件夹,解压到hand143_panopticdb
+从[此链接](https://pan.baidu.com/s/1CwxSyZxMgL3FK8zJBqWeQw) 下载数据到data文件夹,解压到hand143_panopticdb
 
 解压之后图片存储在
 
